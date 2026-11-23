@@ -1,4 +1,4 @@
-# 🌍 REST Countries Explorer | Global Geographic Intelligence
+# REST Countries Explorer | Global Geographic Intelligence
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=flat-square&logo=streamlit)](https://streamlit.io/)
@@ -8,7 +8,7 @@
 
 ---
 
-## 🌐 Features
+## Features
 
 - **Country Search & Lookup:** Search any sovereign nation by name, capital, or currency code.
 - **Demographic Telemetry:** Capital cities, population metrics, geographic coordinates, and regional classifications.
@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Run Locally
+## Run Locally
 
 ```bash
 git clone https://github.com/mesumali-dev/rest-countries-explorer.git
@@ -29,5 +29,5 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Author
+## ‍ Author
 **Syed Mesum Ali** - [@mesumali-dev](https://github.com/mesumali-dev)
